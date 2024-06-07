@@ -2,8 +2,11 @@ Online E-commerce Store
 
 Members:
 Laiba Mohsin
+
 Aniqa Azhar (Aniqa990 on github)
+
 Aisha Jalil (AishaJalil on github)
+
 
 Introduction
 Our project aims to implement an efficient order management and delivery system for an online shop. The
