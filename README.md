@@ -1,6 +1,4 @@
-Online E-commerce Store
-
-Members:
+## Members:
 
 Laiba Mohsin
 
@@ -9,7 +7,7 @@ Aniqa Azhar (Aniqa990 on github)
 Aisha Jalil (AishaJalil on github)
 
 
-Introduction
+## Introduction
 
 
 Our project aims to implement an efficient order management and delivery system for an online shop. The
@@ -19,7 +17,7 @@ inventory and process orders efficiently, while also providing customers with a 
 
 
 
-Problem Statement
+## Problem Statement
 
 
 The primary problem addressed by the project is to efficiently manage orders and deliveries for an online
@@ -31,7 +29,7 @@ system.
 
 
 
-Data Structure Concepts Used
+## Data Structure Concepts Used
 
 
 1. AVL Tree
@@ -77,9 +75,9 @@ key based on the order ID and the size of the hash table.
 
 
 
-EFFICIENCY ANALYSIS
+## EFFICIENCY ANALYSIS
 
-TIME COMPLEXITY
+# TIME COMPLEXITY
 
 The algorithm utilized in the project, such as Dijkstra's, is selected for their low time complexity.
 
@@ -109,6 +107,7 @@ implementation, where V is the number of vertices and E is the number of edges.
 
 
 Displaying Orders and Deliveries:
+
 Printing each order or delivery: O(N) where N is the number of orders or deliveries.
 
 
@@ -118,7 +117,7 @@ The insert, search, and delete_val operations in this code have an average-case 
 because the hash function is used to directly access the location in the hash table.
 
 
-SPACE COMPLEXITY
+# SPACE COMPLEXITY
 
 Home Delivery Heap (deliveries array in HomeDeliveryHeap class):
 
@@ -143,7 +142,7 @@ Hash Table implementation:
 The space complexity of the hash table is O(n), where n is the number of unique order IDs.
 
 
-COMPARISON WITH EXISTING SYSTEMS
+## COMPARISON WITH EXISTING SYSTEMS
 
 The project differentiates itself from existing systems through its emphasis on optimizing time and space
 complexity. By incorporating Dijkstra's and minheap, the system ensures faster and more efficient route
@@ -155,7 +154,7 @@ order processing and tracking. It incorporates geographical information, allowin
 areas within cities, and it calculates delivery distances and charges accordingly.
 
 
-CONCLUSION
+## CONCLUSION
 
 In conclusion, this project highlights the challenges of order management and delivery optimization using
 various data structure concepts. The implementation of AVL Trees, Priority Queues, and Graph
