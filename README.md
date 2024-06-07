@@ -1,6 +1,7 @@
 Online E-commerce Store
 
 Members:
+
 Laiba Mohsin
 
 Aniqa Azhar (Aniqa990 on github)
@@ -9,12 +10,18 @@ Aisha Jalil (AishaJalil on github)
 
 
 Introduction
+
+
 Our project aims to implement an efficient order management and delivery system for an online shop. The
 project utilizes various data structure concepts to handle order processing, deliveries, and optimize the
 overall system's efficiency. The project will use data structures and algorithms to manage the store's
 inventory and process orders efficiently, while also providing customers with a user-friendly interface.
 
+
+
 Problem Statement
+
+
 The primary problem addressed by the project is to efficiently manage orders and deliveries for an online
 shop. This involves creating a robust system that handles customer orders, calculates bills, and optimizes
 delivery routes based on geographical locations. This project highlights how different data structures and
@@ -22,7 +29,10 @@ algorithms are practically used to create an online store management system. It 
 efficient solutions for tasks like storing data, retrieving information, and finding optimal paths within the
 system.
 
+
+
 Data Structure Concepts Used
+
 
 1. AVL Tree
 
